@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: false
+title: Ticketing
 ---
 
-# This is some information about the ticket thing
-
-Some more detail blah blah blahzzzz
+Some more detail about ticketing
 
